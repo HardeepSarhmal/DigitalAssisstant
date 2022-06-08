@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <stroke android:color="@color/jamni"
+        android:width="2dp">
+
+    </stroke>
+
+    <gradient android:endColor="@color/lightjamni"
+        android:startColor="@color/darkjamni">
+
+    </gradient>
+    <corners android:radius="8dp">
+
+    </corners>
+
+
+</shape>
